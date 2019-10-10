@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{ Component } from 'react';
 import './estilo.css';
 
 class App extends Component{
